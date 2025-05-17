@@ -95,7 +95,7 @@ Een goede **prompt** (de zin die je naar de AI stuurt) maakt het verschil tussen
 ## ⚙️ De workflow stap voor stap
 
 1. 📩 Jij stuurt een chatbericht
-2. 🤖 De **AI Agent** begrijpt je intentie via **Ollama**
+2. 🤖 De **AI Agent** begrijpt je intentie via de **LLM**
 3. 🧠 De agent gebruikt **geheugen** om eerdere context vast te houden
 4. 📅 Hij bekijkt je Google Agenda
 5. ✅ Als er ruimte is, plant hij het in
