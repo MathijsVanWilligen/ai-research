@@ -4,6 +4,14 @@ Stel je voor: je stuurt een kort berichtje zoals “Plan een meeting met Peter-J
 
 In deze mini blog leggen we je uit hoe dit werkt in combinatie met het automatiseringsplatform n8n.
 
+## 📊 De n8n workflow
+![image](https://github.com/user-attachments/assets/2eb8a85f-4ccc-4120-a2e1-152a7a804cc2)
+
+> [!Note]
+> Dit is een erg simpele implementatie van een AI agent, er is een scala aan mogelijkheden. Bedenk eerst goed wat je wilt gaan maken!
+
+> [!Warning]
+> Deze workflow is niet productie ready, er moet door mijn nog onderzoek gedaan worden of n8n goed in een productie environment uitgevoerd kan worden voor een stabiele implemenatatie van ai-agents kan je 'langchain' gebruiken.
 ---
 
 ## 🤖 Wat is een AI Agent?
